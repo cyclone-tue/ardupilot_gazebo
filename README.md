@@ -51,6 +51,11 @@ echo 'export GAZEBO_RESOURCE_PATH=~/ardupilot_gazebo/worlds:${GAZEBO_RESOURCE_PA
 ````
 source ~/.bashrc
 ````
+Now make sure that MAVProxy and its dependecies are up to date, if you have dronekit install as well.
+````
+sudo pip -U MAVProxy
+````
+
 
 DONE !
 

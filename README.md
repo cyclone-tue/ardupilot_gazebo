@@ -75,7 +75,7 @@ On 1st Terminal(Launch Ardupilot SITL)
 sim_vehicle.py -v APMrover2 -f gazebo-rover --map --console
 ````
 
-On 2nd Termianal(Launch Gazebo with demo Rover model)
+On 2nd Terminal(Launch Gazebo with demo Rover model)
 ````
 gazebo --verbose worlds/ (Please Add if there is one.)
 ````
